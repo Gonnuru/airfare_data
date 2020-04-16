@@ -12,3 +12,8 @@ I have analysed data based on the following questions
 3) How many distinct cities are represented in the data (regardless of whether it is the source or destination)?
 4) Which airline appear most frequently as the carrier with the lowest fare (ie. carrier_low)? How about the airline with the largest market share (ie. carrier_lg)?
 5) How many instances are there where the carrier with the largest market share is not the carrier with the lowest fare? What is the average difference in fare?
+
+
+** Note **
+
+Inorder to access the file with .sqbpro extension use DB Browser SQLite
