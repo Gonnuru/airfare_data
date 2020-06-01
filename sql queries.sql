@@ -30,7 +30,7 @@ where carrier_low != carrier_lg;
 
 ----
 
- 
+ /* Between 1997 and 2017 */
 SELECT round(avg(fare), 2) as 'fare_change_1997_2017' 
 from airfare_data 
 WHERE Year BETWEEN 1997 and 2017 ;
