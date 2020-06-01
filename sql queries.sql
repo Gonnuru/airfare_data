@@ -3,6 +3,7 @@ from airfare_data;
 
 ---
 
+/* City 1, city 2 */
 select city1, city2, nsmiles
 from airfare_data
 ORDER by nsmiles DESC;
